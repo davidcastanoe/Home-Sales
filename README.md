@@ -35,7 +35,7 @@ you'll use your knowledge of SparkSQL to determine key metrics about home sales 
     > Question=> What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
     <img src="Images\cache.png" style="height:400px">
 
-3. Parquet (Aprox 1.20 seconds) `Lowest Result`
+3. Parquet (Aprox 1.20 seconds) `Slowest Result`
     > Question=> What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
     <img src="Images\parquet.png" style="height:400px">
 
