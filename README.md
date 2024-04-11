@@ -1,4 +1,5 @@
 # Home Sales
+<<<<<<< HEAD
 
 ## Background
 you'll use your knowledge of SparkSQL to determine key metrics about home sales data. Then you'll use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
@@ -48,3 +49,5 @@ If there are any questions or concerns, I can be reached at:
 > [Github](https://github.com/Davidcastanoe)
 
 > [LinkedIn](https://www.linkedin.com/in/davidcastanoe/)
+=======
+>>>>>>> 4f30ee1bbab6a6ab7a4547aa8c194266c6a0e523
